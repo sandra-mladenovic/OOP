@@ -1,0 +1,13 @@
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\bin\Debug\Nedelja10.exe.config
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\bin\Debug\Nedelja10.exe
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\bin\Debug\Nedelja10.pdb
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\obj\Debug\Nedelja10.csprojResolveAssemblyReference.cache
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\obj\Debug\Nedelja10.exe
+c:\users\llukic\documents\visual studio 2017\Projects\Nedelja10\Nedelja10\obj\Debug\Nedelja10.pdb
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\bin\Debug\Nedelja10.exe.config
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\bin\Debug\Nedelja10.exe
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\bin\Debug\Nedelja10.pdb
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\obj\Debug\Nedelja10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\obj\Debug\Nedelja10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\obj\Debug\Nedelja10.exe
+C:\Users\User\Desktop\Osnovi OOP C#\Nedelja10\Nedelja10\obj\Debug\Nedelja10.pdb
